@@ -94,7 +94,7 @@ Figure 6: Overview of the study procedure containing tasks and procedure for eac
 
 We conducted a 2-day study with 16 ML practitioners to investigate how DynamicLabels assists the ML label set construction process, through a within-subjects study comparing DynamicLabels to the baseline system, having annotation for crowd feedback and a table-like analysis for feedback review. Below are our results for each of the research questions.
 
-#### RQ1: Can crowd workers produce helpful feedback with the feed- back collection interface?
+#### RQ1: Can crowd workers produce helpful feedback with the feedback collection interface?
 
 Feedback from the crowd—--both annotation and crowd-made labels---contained diverse viewpoints and helped participants understand the various viewpoints of the crowd, some they had never expected before, and found it meaningful and useful in making refinements.
 
